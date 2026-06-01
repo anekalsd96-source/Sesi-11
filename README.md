@@ -69,15 +69,4 @@ void main() {
 ```
 [Klik di sini untuk menjalankan kode DartPad](https://dartpad.dev/77ac8a58c23da7d985d1a0fdf54cb0f9)
 ---
-Penjelasan
-Circle(this.radius)
-Constructor utama yang menerima nilai radius.
-Circle.fromDiameter(double diameter)
-Menggunakan redirecting constructor ke constructor utama.
-Rumus: radius = diameter / 2
-Circle.fromCircumference(double circumference)
-Menghitung radius dari keliling.
-Rumus: radius = keliling / (2 × π)
-Circle.fromArea(double area)
-Menghitung radius dari luas.
-Rumus: radius = √(luas / π)
+
