@@ -3,7 +3,7 @@
 ### Nama       : Aneka Lisda 
 ### NIM        : 25141013P
 ### Kelas      : SI2KR
-### Mata Kuliah: Pemrograman Berbasis Objek  
+### Mata Kuliah: Pemrograman Berbasis Objek ( Sesi 11) 
 ---
 ```dart
 import 'dart:math';
